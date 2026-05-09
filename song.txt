@@ -1,7 +1,2 @@
 <<<<<<< HEAD
 sotg 123
-song 456
-song 789
-
-attack!
-!!!!!!!!!!!!!!!
